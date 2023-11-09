@@ -11,7 +11,15 @@
 *********************
 ## ***Skills***
 *********************
+* basics of HTML5 and CSS3
+* Postman
+* Git
+* VS Code
+* DevTools
+********************
 ## ***Courses***
+*********************
+RS School course(JS) - in process
 *********************
 ## ***Languages***
 *********************
