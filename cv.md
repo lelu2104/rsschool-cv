@@ -9,7 +9,7 @@
 * email: elena.dubrouskaya@gmail.com
 ## ***About myself***
 *********************
-I like to study.
+I like to study, learn new.
 *********************
 ## ***Skills***
 *********************
@@ -18,6 +18,7 @@ I like to study.
 * Git
 * VS Code
 * DevTools
+* Fiddler
 ********************
 ## ***Courses***
 *********************
