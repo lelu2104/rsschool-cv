@@ -1,7 +1,7 @@
 *********************
 # ***Alena Dubrouskaya***
 *********************
-## ***Junior Fron-end Developer***
+## ***Junior Front-end Developer***
 *********************
 ## ***Contact information***
 *********************
