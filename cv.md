@@ -1,15 +1,20 @@
 *********************
-# Alena Dubrouskaya
+# ***Alena Dubrouskaya***
 *********************
-Junior Fron-end Developer
+## ***Junior Fron-end Developer***
 *********************
-Contact information
+## ***Contact information***
 *********************
-About myself
+* mobile phone: +375295429764
+* email: elena.dubrouskaya@gmail.com
+## ***About myself***
 *********************
-Skills
+## ***Skills***
 *********************
-Courses
+## ***Courses***
 *********************
-Languages
+## ***Languages***
+*********************
+1. Russian - Native
+2. English - B2
 *********************
