@@ -9,6 +9,8 @@
 * email: elena.dubrouskaya@gmail.com
 ## ***About myself***
 *********************
+I like to study.
+*********************
 ## ***Skills***
 *********************
 * basics of HTML5 and CSS3
