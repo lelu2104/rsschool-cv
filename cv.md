@@ -15,10 +15,11 @@ I like to study, learn new.
 *********************
 * basics of HTML5 and CSS3
 * Postman
-* Git
+* Git, GiHub
 * VS Code
 * DevTools
 * Fiddler
+* REST API
 ********************
 ## ***Courses***
 *********************
